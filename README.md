@@ -5,7 +5,7 @@ student grade generator
 
 
 ## Description
-this is a code challenge for prompts the user to input student marks
+- this is a code challenge for prompts the user to input student marks
 
 
 ### Alternative One
